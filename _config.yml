@@ -18,8 +18,8 @@ avatar: https://scontent.fiev10-1.fna.fbcdn.net/v/t31.0-8/22519739_5667783269869
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:elias.mir@ro.ru
-  facebook:https://www.facebook.com/profile.php?id=100009644641791
+  email: elias.mir@ro.ru
+  facebook: https://www.facebook.com/profile.php?id=100009644641791
   flickr:
   github: barryclark/jekyll-now
   instagram: elias.mir
@@ -34,7 +34,7 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:Ilia
+disqus: Ilia
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
